@@ -1,0 +1,1445 @@
+{
+  "plaza de bolívar, bogotá": {
+    "lat": 4.5981694,
+    "lon": -74.0760021,
+    "display_name": "Plaza de Bolívar, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.598169,-74.076002": "Avenida Carrera 7",
+  "catedral primada de bogotá": {
+    "lat": 4.5978421,
+    "lon": -74.0751469,
+    "display_name": "Catedral Primada de Bogotá, Carrera 6, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.597842,-74.075147": "Calle 11",
+  "capitolio nacional de colombia": {
+    "lat": 4.5972122,
+    "lon": -74.0766225,
+    "display_name": "Capitolio Nacional, Carrera 8, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.597212,-74.076622": "Calle 10",
+  "casa de nariño, bogotá": {
+    "lat": 4.5955057,
+    "lon": -74.077549,
+    "display_name": "Casa de Nariño (Presidencia de la República), Carrera 7, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.595506,-74.077549": "Carrera 7",
+  "teatro colón, bogotá": {
+    "lat": 4.596677,
+    "lon": -74.0744246,
+    "display_name": "Teatro Colón, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.596677,-74.074425": "Calle 10",
+  "museo del oro, bogotá": {
+    "lat": 4.6018403,
+    "lon": -74.0718526,
+    "display_name": "Museo del Oro, Calle 16, La Veracruz, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110321, Colombia"
+  },
+  "rev:4.601840,-74.071853": "Calle 16",
+  "museo nacional de colombia": {
+    "lat": 4.6155238,
+    "lon": -74.0684131,
+    "display_name": "Museo Nacional de Colombia, 28-66, Avenida Carrera 7, San Martín, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.615524,-74.068413": "Avenida Carrera 7",
+  "museo de arte moderno de bogotá": {
+    "lat": 4.6100168,
+    "lon": -74.0693026,
+    "display_name": "Museo de Arte Moderno de Bogotá, Avenida Calle 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.610017,-74.069303": "Avenida Calle 26",
+  "planetario de bogotá": {
+    "lat": 4.6120576,
+    "lon": -74.0688218,
+    "display_name": "Planetario de Bogotá, 5-93, Calle 26B, San Diego, UPZ Sagrado Corazón, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.612058,-74.068822": "Calle 26B",
+  "maloka, bogotá": {
+    "lat": 4.6554318,
+    "lon": -74.1094912,
+    "display_name": "Maloka, Calle 24B Bis, Ciudad Salitre, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+  },
+  "rev:4.655432,-74.109491": "Carrera 69",
+  "museo de arte colonial de bogotá": {
+    "lat": 4.5966376,
+    "lon": -74.0751629,
+    "display_name": "Museo de Arte Colonial, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.596638,-74.075163": "Carrera 6",
+  "biblioteca virgilio barco": {
+    "lat": 4.6569529,
+    "lon": -74.0882974,
+    "display_name": "Biblioteca Pública Virgilio Barco, 57-60, Avenida Carrera 60, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia"
+  },
+  "rev:4.656953,-74.088297": "Avenida Carrera 60",
+  "la candelaria, centro administrativo, bogotá": {
+    "lat": 4.5956662,
+    "lon": -74.0730709,
+    "display_name": "Droguería La Candelaria, 3-76, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.595666,-74.073071": "Calle 10",
+  "monserrate, bogotá": {
+    "lat": 4.7454752,
+    "lon": -74.0630665,
+    "display_name": "Monserrate, Carrera 62, Portales del Norte, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111156, Colombia"
+  },
+  "cerro de monserrate": {
+    "lat": 4.6052221,
+    "lon": -74.0554677,
+    "display_name": "Cerro de Monserrate, Localidad Santa Fé, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.605222,-74.055468": "Camino de Peregrinos",
+  "parque metropolitano simón bolívar, bogotá": {
+    "lat": 4.6587491,
+    "lon": -74.094133,
+    "display_name": "Parque Metropolitano Simón Bolívar, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "parque simon bolivar, bogota": {
+    "lat": 4.6587491,
+    "lon": -74.094133,
+    "display_name": "Parque Metropolitano Simón Bolívar, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "jardín botánico de bogotá": {
+    "lat": 4.6564076,
+    "lon": -74.1051579,
+    "display_name": "Estación El Tiempo - Cámara de Comercio de Bogotá, UPZs Localidad Engativá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111071, Colombia"
+  },
+  "rev:4.656408,-74.105158": "Estación El Tiempo - Cámara de Comercio de Bogotá",
+  "quebrada la vieja, bogotá": {
+    "lat": 4.6490536,
+    "lon": -74.0465096,
+    "display_name": "Quebrada La Vieja, UPZ Pardo Rubio, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "rev:4.649054,-74.046510": "Quebrada la Vieja",
+  "el salitre, bogotá": {
+    "lat": 4.665503,
+    "lon": -74.082136,
+    "display_name": "El Salitre, Carrera 57, Modelo, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+  },
+  "rev:4.665503,-74.082136": "Carrera 57",
+  "estadio nemesio camacho el campín": {
+    "lat": 4.6459495,
+    "lon": -74.0776054,
+    "display_name": "Estadio Nemesio Camacho El Campín, Avenida Carrera 30, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+  },
+  "rev:4.645950,-74.077605": "Avenida Carrera 30",
+  "salitre mágico, bogotá": {
+    "lat": 4.6683521,
+    "lon": -74.0909821,
+    "display_name": "Salitre Mágico, TransMilenio, Metrópolis, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111061, Colombia"
+  },
+  "rev:4.668352,-74.090982": "Avenida Carrera 68",
+  "centro comercial unicentro bogotá": {
+    "lat": 4.7021592,
+    "lon": -74.0412813,
+    "display_name": "Unicentro, Avenida Calle 127, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+  },
+  "rev:4.702159,-74.041281": "Carrera 13",
+  "plaza de usaquén, bogotá": {
+    "lat": 4.6951704,
+    "lon": -74.0309408,
+    "display_name": "Plaza de Usaquén, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.695170,-74.030941": "Carrera 6A",
+  "parque de la 93, bogotá": {
+    "lat": 4.676768,
+    "lon": -74.0482874,
+    "display_name": "Parque de la 93, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.676768,-74.048287": "Calle 93B",
+  "zona t, bogotá": {
+    "lat": 4.6688396,
+    "lon": -74.053465,
+    "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "rev:4.668840,-74.053465": "Avenida Calle 85",
+  "centro comercial andino, bogotá": {
+    "lat": 4.6669045,
+    "lon": -74.0531123,
+    "display_name": "Centro Comercial Andino, 82-71, Carrera 12, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "rev:4.666905,-74.053112": "Carrera 12",
+  "centro comercial calima, bogotá": {
+    "lat": 4.6181546,
+    "lon": -74.0857383,
+    "display_name": "Mallplaza NQS, Avenida Calle 19, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+  },
+  "rev:4.618155,-74.085738": "Avenida Calle 22",
+  "universidad nacional de colombia, bogotá": {
+    "lat": 4.6387426,
+    "lon": -74.0852375,
+    "display_name": "Universidad Nacional de Colombia, 26-85, Carrera 45, Rafael Nuñez, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia"
+  },
+  "rev:4.638743,-74.085238": "Carrera 45",
+  "universidad de los andes, bogotá": {
+    "lat": 4.6014026,
+    "lon": -74.064905,
+    "display_name": "Universidad de los Andes, Transversal 1, Las Aguas, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.601403,-74.064905": "Calle 19A",
+  "aeropuerto internacional el dorado": {
+    "lat": 4.7020946,
+    "lon": -74.1477132,
+    "display_name": "Aeropuerto Internacional El Dorado, Vía San Antonio - La Florida, La Florida, Funza, Sabana Occidente, Cundinamarca, RAP (Especial) Central, 250027, Colombia"
+  },
+  "rev:4.702095,-74.147713": "Avenida Calle 63",
+  "terminal de transportes salitre, bogotá": {
+    "lat": 4.6538763,
+    "lon": -74.1155898,
+    "display_name": "Punto de carga Terminal de Transportes Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+  },
+  "rev:4.653876,-74.115590": "Calle 22B",
+  "plaza santamaría, bogotá": {
+    "lat": 4.6131003,
+    "lon": -74.0684287,
+    "display_name": "Plaza de Toros La Santamaría, Avenida Carrera 3, La Paz Central, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.613100,-74.068429": "Avenida Carrera 3",
+  "la candelaria, bogotá": {
+    "lat": 4.6229117,
+    "lon": -74.0683151,
+    "display_name": "La Candelaria, Avenida Carrera 13, Sagrado Corazón, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "upz la candelaria, bogotá": {
+    "lat": 4.5968167,
+    "lon": -74.0716669,
+    "display_name": "UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.596817,-74.071667": "Carrera 3",
+  "chorro de quevedo, bogotá": {
+    "lat": 4.597234,
+    "lon": -74.0697082,
+    "display_name": "Chorro de Quevedo, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.597234,-74.069708": "Chorro de Quevedo",
+  "rev:4.658749,-74.094133": "Pista de Trote",
+  "jardín botánico josé celestino mutis, bogotá": {
+    "lat": 4.6678953,
+    "lon": -74.1000858,
+    "display_name": "Jardín Botánico José Celestino Mutis, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 11001, Colombia"
+  },
+  "rev:4.667895,-74.100086": "Avenida Calle 63",
+  "parque salitre mágico": {
+    "lat": 4.6683521,
+    "lon": -74.0909821,
+    "display_name": "Salitre Mágico, Avenida Carrera 68, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+  },
+  "centro comercial unicentro, bogotá": {
+    "lat": 4.7021592,
+    "lon": -74.0412813,
+    "display_name": "Unicentro, Carrera 14, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+  },
+  "zona t chapinero": {
+    "lat": 4.6688396,
+    "lon": -74.053465,
+    "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "centro comercial calle 100, bogotá": {
+    "lat": 4.6420317,
+    "lon": -74.0749823,
+    "display_name": "Centro Comercial Galerias, Avenida Calle 53, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+  },
+  "calle 100, bogotá": {
+    "lat": 4.6920261,
+    "lon": -74.0735517,
+    "display_name": "Calle 100, La Floresta, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111121, Colombia"
+  },
+  "rev:4.692026,-74.073552": "Calle 100",
+  "terminal salitre, bogotá": {
+    "lat": 4.6540075,
+    "lon": -74.1163364,
+    "display_name": "Terminal de Transporte de Bogotá - Terminal Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+  },
+  "rev:4.654007,-74.116336": "Diagonal 23",
+  "v2:plaza de bolívar, bogotá": {
+    "lat": 4.5981694,
+    "lon": -74.0760021,
+    "display_name": "Plaza de Bolívar, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:catedral primada de bogotá": {
+    "lat": 4.5978421,
+    "lon": -74.0751469,
+    "display_name": "Catedral Primada de Bogotá, Carrera 6, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:capitolio nacional de colombia": {
+    "lat": 4.5972122,
+    "lon": -74.0766225,
+    "display_name": "Capitolio Nacional, Carrera 8, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:casa de nariño, bogotá": {
+    "lat": 4.5955057,
+    "lon": -74.077549,
+    "display_name": "Casa de Nariño (Presidencia de la República), Carrera 7, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:teatro colón, bogotá": {
+    "lat": 4.596677,
+    "lon": -74.0744246,
+    "display_name": "Teatro Colón, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:museo del oro, bogotá": {
+    "lat": 4.6018403,
+    "lon": -74.0718526,
+    "display_name": "Museo del Oro, Calle 16, La Veracruz, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110321, Colombia"
+  },
+  "v2:museo nacional de colombia": {
+    "lat": 4.6155238,
+    "lon": -74.0684131,
+    "display_name": "Museo Nacional de Colombia, 28-66, Avenida Carrera 7, San Martín, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "v2:museo de arte moderno de bogotá": {
+    "lat": 4.6100168,
+    "lon": -74.0693026,
+    "display_name": "Museo de Arte Moderno de Bogotá, Avenida Calle 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "v2:planetario de bogotá": {
+    "lat": 4.6120576,
+    "lon": -74.0688218,
+    "display_name": "Planetario de Bogotá, 5-93, Calle 26B, San Diego, UPZ Sagrado Corazón, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "v2:maloka, bogotá": {
+    "lat": 4.6554318,
+    "lon": -74.1094912,
+    "display_name": "Maloka, Calle 24B Bis, Ciudad Salitre, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+  },
+  "v2:museo de arte colonial de bogotá": {
+    "lat": 4.5966376,
+    "lon": -74.0751629,
+    "display_name": "Museo de Arte Colonial, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:plaza santamaría, bogotá": {
+    "lat": 4.6131003,
+    "lon": -74.0684287,
+    "display_name": "Plaza de Toros La Santamaría, Avenida Carrera 3, La Paz Central, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "v2:biblioteca virgilio barco": {
+    "lat": 4.6569529,
+    "lon": -74.0882974,
+    "display_name": "Biblioteca Pública Virgilio Barco, 57-60, Avenida Carrera 60, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia"
+  },
+  "v2:la candelaria, bogotá": {
+    "lat": 4.6229117,
+    "lon": -74.0683151,
+    "display_name": "La Candelaria, Avenida Carrera 13, Sagrado Corazón, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.597940,-74.069170": "Calle 12C",
+  "v2:chorro de quevedo, bogotá": {
+    "lat": 4.597234,
+    "lon": -74.0697082,
+    "display_name": "Chorro de Quevedo, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:museo santa clara, bogotá": {
+    "lat": 4.5968372,
+    "lon": -74.0774643,
+    "display_name": "Museo Iglesia Santa Clara, Carrera 8, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.596837,-74.077464": "Carrera 8",
+  "v2:monserrate, bogotá": {
+    "lat": 4.7454752,
+    "lon": -74.0630665,
+    "display_name": "Monserrate, Carrera 62, Portales del Norte, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111156, Colombia"
+  },
+  "rev:4.607254,-74.054309": "Camino a Monserrate",
+  "v2:parque metropolitano simón bolívar, bogotá": {
+    "lat": 4.6587491,
+    "lon": -74.094133,
+    "display_name": "Parque Metropolitano Simón Bolívar, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:jardín botánico josé celestino mutis, bogotá": {
+    "lat": 4.6678953,
+    "lon": -74.1000858,
+    "display_name": "Jardín Botánico José Celestino Mutis, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 11001, Colombia"
+  },
+  "v2:quebrada la vieja, bogotá": {
+    "lat": 4.6490536,
+    "lon": -74.0465096,
+    "display_name": "Quebrada La Vieja, UPZ Pardo Rubio, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "v2:el salitre, bogotá": {
+    "lat": 4.665503,
+    "lon": -74.082136,
+    "display_name": "El Salitre, Carrera 57, Modelo, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+  },
+  "v2:estadio nemesio camacho el campín": {
+    "lat": 4.6459495,
+    "lon": -74.0776054,
+    "display_name": "Estadio Nemesio Camacho El Campín, Avenida Carrera 30, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+  },
+  "v2:salitre mágico, bogotá": {
+    "lat": 4.6683521,
+    "lon": -74.0909821,
+    "display_name": "Salitre Mágico, TransMilenio, Metrópolis, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111061, Colombia"
+  },
+  "v2:parque salitre mágico": {
+    "lat": 4.6683521,
+    "lon": -74.0909821,
+    "display_name": "Salitre Mágico, Avenida Carrera 68, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+  },
+  "v2:centro comercial unicentro, bogotá": {
+    "lat": 4.7021592,
+    "lon": -74.0412813,
+    "display_name": "Unicentro, Carrera 14, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+  },
+  "v2:plaza de usaquén, bogotá": {
+    "lat": 4.6951704,
+    "lon": -74.0309408,
+    "display_name": "Plaza de Usaquén, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:parque de la 93, bogotá": {
+    "lat": 4.676768,
+    "lon": -74.0482874,
+    "display_name": "Parque de la 93, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:zona t, bogotá": {
+    "lat": 4.6688396,
+    "lon": -74.053465,
+    "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:zona t, chapinero": {
+    "lat": 4.6688396,
+    "lon": -74.053465,
+    "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:zona t, bogotá d.c.": {
+    "lat": 4.6688396,
+    "lon": -74.053465,
+    "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:centro comercial andino, bogotá": {
+    "lat": 4.6669045,
+    "lon": -74.0531123,
+    "display_name": "Centro Comercial Andino, 82-71, Carrera 12, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:centro comercial calima, bogotá": {
+    "lat": 4.6181546,
+    "lon": -74.0857383,
+    "display_name": "Mallplaza NQS, Avenida Calle 19, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+  },
+  "v2:calima, bogotá d.c.": {
+    "lat": 4.7503882,
+    "lon": -74.0636525,
+    "display_name": "Calima, Calle 167, Portales del Norte, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111156, Colombia"
+  },
+  "v2:centro comercial calle 100, bogotá": {
+    "lat": 4.6420317,
+    "lon": -74.0749823,
+    "display_name": "Centro Comercial Galerias, Avenida Calle 53, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+  },
+  "v2:c.c. calle 100, bogotá": {
+    "lat": 4.6876618,
+    "lon": -74.1297638,
+    "display_name": "Banco de Bogotá, 100-35, Avenida Calle 26, San José de Fontibón, UPZs de Bogotá, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110911, Colombia"
+  },
+  "v2:universidad nacional de colombia, bogotá": {
+    "lat": 4.6387426,
+    "lon": -74.0852375,
+    "display_name": "Universidad Nacional de Colombia, 26-85, Carrera 45, Rafael Nuñez, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia"
+  },
+  "v2:universidad de los andes, bogotá": {
+    "lat": 4.6014026,
+    "lon": -74.064905,
+    "display_name": "Universidad de los Andes, Transversal 1, Las Aguas, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:aeropuerto internacional el dorado": {
+    "lat": 4.7020946,
+    "lon": -74.1477132,
+    "display_name": "Aeropuerto Internacional El Dorado, Vía San Antonio - La Florida, La Florida, Funza, Sabana Occidente, Cundinamarca, RAP (Especial) Central, 250027, Colombia"
+  },
+  "v2:terminal de transportes salitre, bogotá": {
+    "lat": 4.6538763,
+    "lon": -74.1155898,
+    "display_name": "Punto de carga Terminal de Transportes Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+  },
+  "v2:terminal salitre, bogotá": {
+    "lat": 4.6540075,
+    "lon": -74.1163364,
+    "display_name": "Terminal de Transporte de Bogotá - Terminal Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+  },
+  "v2:upz la candelaria, bogotá": {
+    "lat": 4.5968167,
+    "lon": -74.0716669,
+    "display_name": "UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "v2:cerro de monserrate": {
+    "lat": 4.6052221,
+    "lon": -74.0554677,
+    "display_name": "Cerro de Monserrate, Localidad Santa Fé, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "v2:universidad distrital francisco josé de caldas, bogotá": {
+    "lat": 4.6142765,
+    "lon": -74.0632805,
+    "display_name": "Universidad Distrital Francisco José de Caldas - Sede Macarena A, 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.614276,-74.063281": "Carrera 3",
+  "v2:pontificia universidad javeriana, bogotá": {
+    "lat": 4.6287061,
+    "lon": -74.0636499,
+    "display_name": "Pontificia Universidad Javeriana, 40-62, Avenida Carrera 7, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "v2:universidad del rosario, bogotá": {
+    "lat": 4.6000106,
+    "lon": -74.0733473,
+    "display_name": "Universidad del Rosario, Avenida Carrera 7, La Catedral, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.600011,-74.073347": "Calle 12B",
+  "v2:universidad externado de colombia, bogotá": {
+    "lat": 4.5952455,
+    "lon": -74.0683393,
+    "display_name": "Universidad Externado de Colombia, Calle 12, Egipto, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.595245,-74.068339": null,
+  "v2:universidad ean, bogotá": {
+    "lat": 4.6634617,
+    "lon": -74.0550582,
+    "display_name": "Universidad EAN, 78-47, Avenida Carrera 11, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:ean, bogotá": {
+    "lat": 4.6634617,
+    "lon": -74.0550582,
+    "display_name": "Universidad EAN, 78-47, Avenida Carrera 11, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:universidad la salle, bogotá": {
+    "lat": 4.6446949,
+    "lon": -74.0594621,
+    "display_name": "Universidad de La Salle, Carrera 4A, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "rev:4.644695,-74.059462": "Carrera 4",
+  "v2:universidad pedagógica nacional, bogotá": {
+    "lat": 4.6583973,
+    "lon": -74.0592735,
+    "display_name": "Universidad Pedagógica Nacional, Carrera 13, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "rev:4.658397,-74.059274": "Carrera 12",
+  "v2:hospital universitario san ignacio, bogotá": {
+    "lat": 4.6284139,
+    "lon": -74.0641717,
+    "display_name": "Hospital Universitario San Ignacio, Escaleras Media Torta PUJ, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "v2:hospital san ignacio, bogotá": {
+    "lat": 4.6291571,
+    "lon": -74.0671203,
+    "display_name": "Hospital Universitario San Ignacio, Calle 41, Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "v2:fundación santa fe de bogotá": {
+    "lat": 4.6965636,
+    "lon": -74.032925,
+    "display_name": "Fundación Santa Fe de Bogotá, 7 - 80, Calle 119, Usaquén, UPZ Usaquén, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+  },
+  "rev:4.696564,-74.032925": "Calle 119",
+  "v2:hospital militar central, bogotá": {
+    "lat": 4.634544,
+    "lon": -74.0616281,
+    "display_name": "Hospital Militar Central, Calle 48A, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+  },
+  "rev:4.634544,-74.061628": "Transversal 3",
+  "v2:hospital el tunal, bogotá": {
+    "lat": 4.5715076,
+    "lon": -74.1282471,
+    "display_name": "Hospital El Tunal, Calle 48C Sur, Ciudad Tunal, UPZs de Bogotá, Localidad Tunjuelito, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110621, Colombia"
+  },
+  "rev:4.571508,-74.128247": "Calle 48C Sur",
+  "v2:centro comercial titán plaza, bogotá": {
+    "lat": 4.6965358,
+    "lon": -74.0848833,
+    "display_name": "Centro Comercial Titán Plaza (Av. Boyacá - Cl 9, Avenida Carrera 72, Pontevedra, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111121, Colombia"
+  },
+  "v2:titán plaza, bogotá": {
+    "lat": 4.6947962,
+    "lon": -74.0864609,
+    "display_name": "Titán Plaza, Carrera 70C, Las Ferias, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111021, Colombia"
+  },
+  "v2:centro comercial bima, bogotá": {
+    "lat": 4.80732,
+    "lon": -74.0400006,
+    "display_name": "Centro Comercial Bima, Avenida Carrera 45, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111166, Colombia"
+  },
+  "v2:bima, bogotá": {
+    "lat": 4.80732,
+    "lon": -74.0400006,
+    "display_name": "Centro Comercial Bima, Avenida Carrera 45, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111166, Colombia"
+  },
+  "v2:centro comercial plaza de las américas, bogotá": {
+    "lat": 4.6191423,
+    "lon": -74.1351911,
+    "display_name": "Centro Comercial Plaza de las Americas, 6 Sur-94, Carrera 71D, Hipotecho Occidental, UPZs de Bogotá, Localidad Kennedy, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110831, Colombia"
+  },
+  "rev:4.619142,-74.135191": "Carrera 71D",
+  "v2:centro nogal, bogotá": {
+    "lat": 4.6653127,
+    "lon": -74.0528411,
+    "display_name": "Centro Felicidad Chapinero, 10-69, Calle 82, El Nogal, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+  },
+  "v2:parque el tunal, bogotá": {
+    "lat": 4.5718773,
+    "lon": -74.1341131,
+    "display_name": "Parque Metropolitano El Tunal, Localidad Tunjuelito, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.571877,-74.134113": "Corredor Clases Educación Fisica",
+  "v2:tres reyes, bogotá": {
+    "lat": 4.5831971,
+    "lon": -74.1800041,
+    "display_name": "Tres Reyes, Carrera 24 Este, Minuto de Dios (barrio Soacha), UPZs de Bogotá, Localidad Ciudad Bolivar, Soacha ciudad, Bogotá ciudad, Soacha, Bogotá, Distrito Capital, RAP (Especial) Central, 250055, Colombia"
+  },
+  "v2:parque río bogotá, bogotá": {
+    "lat": 4.7573232,
+    "lon": -74.111815,
+    "display_name": "Espejo de Agua Parque Fontanar del Rio, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:parque río bogotá": {
+    "lat": 4.7573232,
+    "lon": -74.111815,
+    "display_name": "Espejo de Agua Parque Fontanar del Rio, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "v2:parque independencia, bogotá": {
+    "lat": 4.6113347,
+    "lon": -74.0685787,
+    "display_name": "Parque de la Independencia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.611335,-74.068579": "Calle 26B",
+  "v2:plaza de nariño, bogotá": {
+    "lat": 4.5852697,
+    "lon": -74.1025264,
+    "display_name": "Plaza de Mercado del Restrepo, Carrera 19, Restrepo, UPZs de Bogotá, Localidad Antonio Nariño, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111511, Colombia"
+  },
+  "v2:la perseverancia, bogotá": {
+    "lat": 4.6172374,
+    "lon": -74.0645131,
+    "display_name": "La Perseverancia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  "rev:4.617237,-74.064513": "Calle 32",
+  "v2:torre colpatria, bogotá": {
+    "lat": 4.6109936,
+    "lon": -74.0702477,
+    "display_name": "Torre Colpatria, Carrera 9, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+  },
+  "rev:4.610994,-74.070248": "Carrera 9",
+  "v2:mercado de paloquemao, bogotá": {
+    "lat": 4.6162529,
+    "lon": -74.0849713,
+    "display_name": "Plaza de mercado de paloquemao, Avenida Calle 19, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+  },
+  "rev:4.616253,-74.084971": "Avenida Calle 19",
+  "v2:museo botero, bogotá": {
+    "lat": 4.5966918,
+    "lon": -74.0730851,
+    "display_name": "Museo Botero, 4-41, Calle 11, Egipto, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.596692,-74.073085": "Calle 11",
+  "v2:centro cultural gabriel garcía márquez, bogotá": {
+    "lat": 4.5976648,
+    "lon": -74.073986,
+    "display_name": "Centro Cultural Gabriel García Márquez, Calle 11, La Catedral, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.597665,-74.073986": "Calle 11",
+  "v2:museo de bogotá": {
+    "lat": 4.5962128,
+    "lon": -74.0728575,
+    "display_name": "Museo de Bogotá, Carrera 4, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+  },
+  "rev:4.596213,-74.072857": "Carrera 4",
+  "v3:plaza de bolívar, bogotá": [
+    {
+      "lat": 4.5981694,
+      "lon": -74.0760021,
+      "display_name": "Plaza de Bolívar, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "v3:catedral primada de bogotá": [
+    {
+      "lat": 4.5978421,
+      "lon": -74.0751469,
+      "display_name": "Catedral Primada de Bogotá, Calle 11, La Catedral, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:capitolio nacional de colombia": [
+    {
+      "lat": 4.5972122,
+      "lon": -74.0766225,
+      "display_name": "Capitolio Nacional, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:casa de nariño, bogotá": [
+    {
+      "lat": 4.5955057,
+      "lon": -74.077549,
+      "display_name": "Casa de Nariño (Presidencia de la República), Carrera 7, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.5953943,
+      "lon": -74.0775248,
+      "display_name": "Casa de Nariño (Presidential Palace), Avenida Carrera 7, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:teatro colón, bogotá": [
+    {
+      "lat": 4.596677,
+      "lon": -74.0744246,
+      "display_name": "Teatro Colón, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:museo del oro, bogotá": [
+    {
+      "lat": 4.6018403,
+      "lon": -74.0718526,
+      "display_name": "Museo del Oro, Calle 16, La Veracruz, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110321, Colombia"
+    },
+    {
+      "lat": 4.6011409,
+      "lon": -74.0728824,
+      "display_name": "Museo del Oro, TransMilenio, La Catedral, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:museo nacional de colombia": [
+    {
+      "lat": 4.6155238,
+      "lon": -74.0684131,
+      "display_name": "Museo Nacional de Colombia, 28-66, Avenida Carrera 7, San Martín, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:museo de arte moderno de bogotá": [
+    {
+      "lat": 4.6100168,
+      "lon": -74.0693026,
+      "display_name": "Museo de Arte Moderno de Bogotá, Avenida Calle 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:planetario de bogotá": [
+    {
+      "lat": 4.6120576,
+      "lon": -74.0688218,
+      "display_name": "Planetario de Bogotá, 5-93, Calle 26B, San Diego, UPZ Sagrado Corazón, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:maloka, bogotá": [
+    {
+      "lat": 4.6554318,
+      "lon": -74.1094912,
+      "display_name": "Maloka, Calle 24B Bis, Ciudad Salitre, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+    },
+    {
+      "lat": 4.6552219,
+      "lon": -74.1101419,
+      "display_name": "Maloka  (Av. La Esperanza - Kr 69), Avenida Calle 24A, Ciudad Salitre, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+    }
+  ],
+  "v3:museo de arte colonial de bogotá": [
+    {
+      "lat": 4.5966376,
+      "lon": -74.0751629,
+      "display_name": "Museo de Arte Colonial, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:plaza de toros santamaría, bogotá": [],
+  "v3:plaza santamaría, bogotá": [
+    {
+      "lat": 4.6131003,
+      "lon": -74.0684287,
+      "display_name": "Plaza de Toros La Santamaría, Avenida Carrera 3, La Paz Central, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    },
+    {
+      "lat": 4.6123563,
+      "lon": -74.0674062,
+      "display_name": "Plaza de Toros La Santamaría, Avenida Carrera 5, San Diego, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:biblioteca virgilio barco": [
+    {
+      "lat": 4.6569529,
+      "lon": -74.0882974,
+      "display_name": "Biblioteca Pública Virgilio Barco, 57-60, Avenida Carrera 60, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia"
+    }
+  ],
+  "v3:la candelaria, bogotá": [
+    {
+      "lat": 4.6229117,
+      "lon": -74.0683151,
+      "display_name": "La Candelaria, Avenida Carrera 13, Sagrado Corazón, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    },
+    {
+      "lat": 4.6843605,
+      "lon": -74.0511562,
+      "display_name": "La Candelaria, Transversal 18, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.629589,
+      "lon": -74.0683668,
+      "display_name": "La Candelaria, TransMilenio, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+    },
+    {
+      "lat": 4.5979403,
+      "lon": -74.0691705,
+      "display_name": "La Candelaria, Calle 12C, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.6001124,
+      "lon": -74.068473,
+      "display_name": "La Candelaria, 2 - 50, Calle 12F, Las Aguas, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:chorro de quevedo, bogotá": [
+    {
+      "lat": 4.597234,
+      "lon": -74.0697082,
+      "display_name": "Chorro de Quevedo, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.5969589,
+      "lon": -74.0693422,
+      "display_name": "chorro de quevedo, Calle 12B Bis, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.5974866,
+      "lon": -74.0692097,
+      "display_name": "Chorro de Quevedo, 1-53, Calle 12B Bis A, La Concordia, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:museo santa clara, bogotá": [
+    {
+      "lat": 4.5968372,
+      "lon": -74.0774643,
+      "display_name": "Museo Iglesia Santa Clara, Carrera 8, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:monserrate, bogotá": [
+    {
+      "lat": 4.7454752,
+      "lon": -74.0630665,
+      "display_name": "Monserrate, Carrera 62, Portales del Norte, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111156, Colombia"
+    },
+    {
+      "lat": 4.7109718,
+      "lon": -74.140064,
+      "display_name": "Monserrate, Calle 64, Sabana del Dorado, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111031, Colombia"
+    },
+    {
+      "lat": 4.7033972,
+      "lon": -74.1098125,
+      "display_name": "Monserrate, Carrera 94, Santa Rosita, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111051, Colombia"
+    },
+    {
+      "lat": 4.6072539,
+      "lon": -74.054309,
+      "display_name": "Cerro de Monserrate, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:parque metropolitano simón bolívar, bogotá": [
+    {
+      "lat": 4.6587491,
+      "lon": -74.094133,
+      "display_name": "Parque Metropolitano Simón Bolívar, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "v3:jardín botánico josé celestino mutis, bogotá": [
+    {
+      "lat": 4.6678953,
+      "lon": -74.1000858,
+      "display_name": "Jardín Botánico José Celestino Mutis, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 11001, Colombia"
+    }
+  ],
+  "v3:quebrada la vieja, bogotá": [
+    {
+      "lat": 4.6490536,
+      "lon": -74.0465096,
+      "display_name": "Quebrada La Vieja, UPZ Pardo Rubio, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    },
+    {
+      "lat": 4.6512633,
+      "lon": -74.0502327,
+      "display_name": "Quebrada La Vieja, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    },
+    {
+      "lat": 4.6514245,
+      "lon": -74.0505512,
+      "display_name": "Quebrada La Vieja, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.6494764,
+      "lon": -74.0476353,
+      "display_name": "Quebrada la Vieja, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:parque de la salud el salitre, bogotá": [],
+  "v3:complejo recreativo deportivo el salitre": [],
+  "v3:el salitre, bogotá": [
+    {
+      "lat": 4.7546956,
+      "lon": -74.0802086,
+      "display_name": "El salitre, Avenida Carrera 92, Salitre Suba, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111161, Colombia"
+    },
+    {
+      "lat": 4.665503,
+      "lon": -74.082136,
+      "display_name": "El Salitre, Carrera 57, Modelo, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+    },
+    {
+      "lat": 4.6619037,
+      "lon": -74.0049607,
+      "display_name": "Vía Bogotá - La Calera, Zona 3, El Líbano, El Salitre, Zona 3 La Calera, La Calera, Guavio, Cundinamarca, RAP (Especial) Central, 251207, Colombia"
+    },
+    {
+      "lat": 4.6627355,
+      "lon": -74.0102134,
+      "display_name": "Vía Bogotá - La Calera, Zona 3, El Líbano, El Salitre, Bogotá ciudad, Zona 3 La Calera, La Calera, Guavio, Cundinamarca, RAP (Especial) Central, 251207, Colombia"
+    },
+    {
+      "lat": 4.6887828,
+      "lon": -73.9885461,
+      "display_name": "Vía Bogotá - La Calera, San Rafael, El Salitre, El Salitre (La Calera), Zona 3 La Calera, La Calera, Guavio, Cundinamarca, RAP (Especial) Central, 251207, Colombia"
+    }
+  ],
+  "v3:estadio nemesio camacho el campín": [
+    {
+      "lat": 4.6459495,
+      "lon": -74.0776054,
+      "display_name": "Estadio Nemesio Camacho El Campín, Avenida Carrera 30, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+    },
+    {
+      "lat": 4.6436962,
+      "lon": -74.0786352,
+      "display_name": "Estadio Nemesio Camacho El Campín, Avenida Carrera 30, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+    }
+  ],
+  "v3:salitre mágico, bogotá": [
+    {
+      "lat": 4.6683521,
+      "lon": -74.0909821,
+      "display_name": "Salitre Mágico, Avenida Carrera 68, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+    }
+  ],
+  "v3:centro comercial unicentro, bogotá": [
+    {
+      "lat": 4.7021592,
+      "lon": -74.0412813,
+      "display_name": "Unicentro, Avenida Calle 127, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    }
+  ],
+  "v3:plaza de usaquén, bogotá": [
+    {
+      "lat": 4.6951704,
+      "lon": -74.0309408,
+      "display_name": "Plaza de Usaquén, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "v3:parque de la 93, bogotá": [
+    {
+      "lat": 4.676768,
+      "lon": -74.0482874,
+      "display_name": "Parque de la 93, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.6747644,
+      "lon": -74.047531,
+      "display_name": "Parque de la 93, Avenida Carrera 11, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:zona t, bogotá": [
+    {
+      "lat": 4.6688396,
+      "lon": -74.053465,
+      "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:zona t, chapinero": [
+    {
+      "lat": 4.6688396,
+      "lon": -74.053465,
+      "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:zona t, bogotá d.c.": [
+    {
+      "lat": 4.6688396,
+      "lon": -74.053465,
+      "display_name": "Camacho's Zona T, 12 - 71, Avenida Calle 85, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:centro comercial andino, bogotá": [
+    {
+      "lat": 4.6669045,
+      "lon": -74.0531123,
+      "display_name": "Centro Comercial Andino, 82-71, Carrera 12, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.6664673,
+      "lon": -74.052531,
+      "display_name": "Centro Comercial Andino, Avenida Carrera 11, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.667515,
+      "lon": -74.0526941,
+      "display_name": "Centro Comercial Andino, Calle 84A, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:centro comercial calima, bogotá": [
+    {
+      "lat": 4.6181546,
+      "lon": -74.0857383,
+      "display_name": "Mallplaza NQS, Avenida Carrera 27, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+    }
+  ],
+  "v3:cc calima, bogotá": [],
+  "v3:calima, bogotá d.c.": [
+    {
+      "lat": 4.7503882,
+      "lon": -74.0636525,
+      "display_name": "Calima, Calle 167, Portales del Norte, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111156, Colombia"
+    },
+    {
+      "lat": 4.7502185,
+      "lon": -74.0636736,
+      "display_name": "Calima, Carrera 65, Portales del Norte, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111156, Colombia"
+    },
+    {
+      "lat": 4.6181546,
+      "lon": -74.0857383,
+      "display_name": "Mallplaza NQS, Avenida Carrera 27, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+    }
+  ],
+  "v3:centro comercial calle 100, bogotá": [
+    {
+      "lat": 4.6433589,
+      "lon": -74.0752816,
+      "display_name": "Centro Comercial Galerias, Calle 53B, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+    },
+    {
+      "lat": 4.6420317,
+      "lon": -74.0749823,
+      "display_name": "Centro Comercial Galerias, Avenida Calle 53, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia"
+    }
+  ],
+  "v3:c.c. calle 100, bogotá": [
+    {
+      "lat": 4.6876618,
+      "lon": -74.1297638,
+      "display_name": "Banco de Bogotá, 100-35, Avenida Calle 26, San José de Fontibón, UPZs de Bogotá, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110911, Colombia"
+    }
+  ],
+  "v3:universidad nacional de colombia, bogotá": [
+    {
+      "lat": 4.6387426,
+      "lon": -74.0852375,
+      "display_name": "Universidad Nacional de Colombia, 26-85, Carrera 45, Rafael Nuñez, UPZ Parque Simón Bolívar-CAN, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia"
+    }
+  ],
+  "v3:universidad de los andes, bogotá": [
+    {
+      "lat": 4.6014026,
+      "lon": -74.064905,
+      "display_name": "Universidad de los Andes, Calle 19A, Las Aguas, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.6942258,
+      "lon": -74.0334779,
+      "display_name": "Universidad de los Andes, 116-05, Avenida Carrera 7, Usaquén, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    }
+  ],
+  "v3:aeropuerto internacional el dorado": [
+    {
+      "lat": 4.7020946,
+      "lon": -74.1477132,
+      "display_name": "Aeropuerto Internacional El Dorado, Carrera 111C, Villas de Granada, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111031, Colombia"
+    },
+    {
+      "lat": 4.6979905,
+      "lon": -74.1404564,
+      "display_name": "Wingo Airlines, Salidas, UPZs de Bogotá, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110911, Colombia"
+    },
+    {
+      "lat": 4.6980722,
+      "lon": -74.1405834,
+      "display_name": "Albatros Airlines, Salidas, UPZs de Bogotá, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110911, Colombia"
+    }
+  ],
+  "v3:terminal de transportes salitre, bogotá": [
+    {
+      "lat": 4.6538763,
+      "lon": -74.1155898,
+      "display_name": "Punto de carga Terminal de Transportes Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+    }
+  ],
+  "v3:estación de transporte salitre, bogotá": [],
+  "v3:terminal salitre, bogotá": [
+    {
+      "lat": 4.6540075,
+      "lon": -74.1163364,
+      "display_name": "Terminal de Transporte de Bogotá - Terminal Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+    },
+    {
+      "lat": 4.6538763,
+      "lon": -74.1155898,
+      "display_name": "Punto de carga Terminal de Transportes Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia"
+    }
+  ],
+  "v3:universidad distrital francisco josé de caldas, bogotá": [
+    {
+      "lat": 4.6142765,
+      "lon": -74.0632805,
+      "display_name": "Universidad Distrital Francisco José de Caldas - Sede Macarena A, 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.6179836,
+      "lon": -74.0612434,
+      "display_name": "Universidad Distrital Francisco José de Caldas Facultad del Medio Ambiente, Calle 33, La Perseverancia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    },
+    {
+      "lat": 4.613533,
+      "lon": -74.0650704,
+      "display_name": "Universidad Distrital Francisco José de Caldas - Sede Macarena B, Carrera 3A, La Macarena, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    },
+    {
+      "lat": 4.5792601,
+      "lon": -74.1579414,
+      "display_name": "Universidad Distrital Sede Tecnológica, Avenida Calle 68 Sur, Bellavista, UPZs de Bogotá, Localidad Ciudad Bolivar, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111931, Colombia"
+    }
+  ],
+  "v3:pontificia universidad javeriana, bogotá": [
+    {
+      "lat": 4.6287061,
+      "lon": -74.0636499,
+      "display_name": "Pontificia Universidad Javeriana, 40-62, Avenida Carrera 7, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    }
+  ],
+  "rev:4.628706,-74.063650": "Avenida Carrera 7",
+  "v3:universidad del rosario, bogotá": [
+    {
+      "lat": 4.6000106,
+      "lon": -74.0733473,
+      "display_name": "Universidad del Rosario, Avenida Carrera 7, La Catedral, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.6543962,
+      "lon": -74.0729807,
+      "display_name": "Universidad del Rosario, Calle 63C, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia"
+    }
+  ],
+  "v3:universidad externado de colombia, bogotá": [
+    {
+      "lat": 4.5952455,
+      "lon": -74.0683393,
+      "display_name": "Universidad Externado de Colombia, Calle 12, Egipto, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:universidad ean, bogotá": [
+    {
+      "lat": 4.6634617,
+      "lon": -74.0550582,
+      "display_name": "Universidad EAN, 78-47, Avenida Carrera 11, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.6631245,
+      "lon": -74.0550994,
+      "display_name": "Universidad EAN (Bogotá), Calle 78, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "rev:4.663462,-74.055058": "Avenida Carrera 11",
+  "v3:universidad la salle, bogotá": [
+    {
+      "lat": 4.6446949,
+      "lon": -74.0594621,
+      "display_name": "Universidad de La Salle, Carrera 4A, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    },
+    {
+      "lat": 4.7547033,
+      "lon": -74.0283775,
+      "display_name": "Universidad de La Salle - Sede Norte, 179-03, Calle 179, Quintas del Redil, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110141, Colombia"
+    },
+    {
+      "lat": 4.5945756,
+      "lon": -74.0705278,
+      "display_name": "Universidad de la Salle-Sede Centro, Carrera 1 Este, Egipto, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.6064494,
+      "lon": -74.0813199,
+      "display_name": "Instituto Técnico Central de La Salle, Calle 14, Los Mártires, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+    },
+    {
+      "lat": 4.5755133,
+      "lon": -74.095123,
+      "display_name": "Politecnico la Salle, Avenida Carrera 10, Sosiego Sur, UPZs de Bogotá, Localidad Rafael Uribe Uribe, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111821, Colombia"
+    }
+  ],
+  "v3:universidad pedagógica nacional, bogotá": [
+    {
+      "lat": 4.6583973,
+      "lon": -74.0592735,
+      "display_name": "Universidad Pedagógica Nacional, Carrera 13, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.6576453,
+      "lon": -74.0591113,
+      "display_name": "Universidad Pedagógica Nacional, Avenida Calle 72, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.6575688,
+      "lon": -74.0594636,
+      "display_name": "Universidad Pedagógica Nacional, Avenida Calle 72, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    },
+    {
+      "lat": 4.6659766,
+      "lon": -74.0585298,
+      "display_name": "Universidad Pedagogica Nacional, 16-32, Calle 79, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "v3:hospital universitario san ignacio, bogotá": [
+    {
+      "lat": 4.6284139,
+      "lon": -74.0641717,
+      "display_name": "Hospital Universitario San Ignacio, Escaleras Media Torta PUJ, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    },
+    {
+      "lat": 4.6291571,
+      "lon": -74.0671203,
+      "display_name": "Hospital Universitario San Ignacio, Calle 41, Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    }
+  ],
+  "rev:4.628414,-74.064172": "Avenida Carrera 7",
+  "v3:fundación santa fe de bogotá": [
+    {
+      "lat": 4.6965636,
+      "lon": -74.032925,
+      "display_name": "Fundación Santa Fe de Bogotá, 7 - 80, Calle 119, Usaquén, UPZs Localidad Usaquén, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    },
+    {
+      "lat": 4.6966325,
+      "lon": -74.0328316,
+      "display_name": "Edificio Ambulatorio - Fundación Santa Fe de Bogotá, 7 - 80, Calle 119, Usaquén, UPZs Localidad Usaquén, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    },
+    {
+      "lat": 4.6958455,
+      "lon": -74.0331661,
+      "display_name": "Fundación Santa Fé de Bogotá, Avenida Carrera 9, Usaquén, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    }
+  ],
+  "v3:hospital militar central, bogotá": [
+    {
+      "lat": 4.634544,
+      "lon": -74.0616281,
+      "display_name": "Hospital Militar Central, Calle 48A, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    },
+    {
+      "lat": 4.6356644,
+      "lon": -74.0623356,
+      "display_name": "Hospital Militar Central, Transversal 3, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia"
+    }
+  ],
+  "v3:hospital el tunal, bogotá": [
+    {
+      "lat": 4.5715076,
+      "lon": -74.1282471,
+      "display_name": "Hospital El Tunal, Calle 48C Sur, San Carlos, UPZs de Bogotá, Localidad Tunjuelito, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110621, Colombia"
+    }
+  ],
+  "v3:centro comercial titán plaza, bogotá": [
+    {
+      "lat": 4.6965358,
+      "lon": -74.0848833,
+      "display_name": "Centro Comercial Titán Plaza (Av. Boyacá - Cl 9, Avenida Carrera 72, Pontevedra, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111121, Colombia"
+    },
+    {
+      "lat": 4.6960188,
+      "lon": -74.08654,
+      "display_name": "Centro Comercial Titán Plaza, Avenida Carrera 72, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111021, Colombia"
+    }
+  ],
+  "rev:4.696536,-74.084883": "Avenida Carrera 72",
+  "v3:centro comercial bima, bogotá": [
+    {
+      "lat": 4.80732,
+      "lon": -74.0400006,
+      "display_name": "Centro Comercial Bima, Avenida Carrera 45, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111166, Colombia"
+    }
+  ],
+  "rev:4.807320,-74.040001": "Avenida Carrera 45",
+  "v3:centro comercial plaza de las américas, bogotá": [
+    {
+      "lat": 4.6191423,
+      "lon": -74.1351911,
+      "display_name": "Centro Comercial Plaza de las Americas, 6 Sur-94, Carrera 71D, Hipotecho Occidental, UPZs de Bogotá, Localidad Kennedy, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110831, Colombia"
+    }
+  ],
+  "v3:centro comercial plaza central, bogotá": [
+    {
+      "lat": 4.6319656,
+      "lon": -74.1155689,
+      "display_name": "Centro Comercial Plaza Central, Carrera 65, Salazar Gómez, UPZs de Bogotá, Localidad Puente Aranda, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111611, Colombia"
+    }
+  ],
+  "rev:4.631966,-74.115569": "Carrera 65",
+  "v3:complejo recreativo deportivo el tunal, bogotá": [],
+  "v3:parque el tunal, bogotá": [
+    {
+      "lat": 4.5718773,
+      "lon": -74.1341131,
+      "display_name": "Parque Metropolitano El Tunal, Localidad Tunjuelito, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "v3:hospital de suba, bogotá": [
+    {
+      "lat": 4.7533787,
+      "lon": -74.0918398,
+      "display_name": "Hospital de Suba, Avenida Carrera 104, Turingia, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111161, Colombia"
+    }
+  ],
+  "rev:4.753379,-74.091840": "Avenida Carrera 104",
+  "v3:parque río bogotá, bogotá": [
+    {
+      "lat": 4.7573232,
+      "lon": -74.111815,
+      "display_name": "Espejo de Agua Parque Fontanar del Rio, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.6034468,
+      "lon": -74.1606008,
+      "display_name": "Parque Zonal Villa del Río, Localidad Bosa, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.6396178,
+      "lon": -74.1991893,
+      "display_name": "Parque Alameda del Río, UPZs de Bogotá, Localidad Bosa, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.7563711,
+      "lon": -74.1112877,
+      "display_name": "Parque Fontanar del Rio, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.7270089,
+      "lon": -74.1297976,
+      "display_name": "Parque Líneal Río Bogotá, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111031, Colombia"
+    }
+  ],
+  "rev:4.727009,-74.129798": "Parque Líneal Río Bogotá",
+  "v3:parque independencia, bogotá": [
+    {
+      "lat": 4.6113347,
+      "lon": -74.0685787,
+      "display_name": "Parque de la Independencia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "v3:cementerio central, bogotá": [
+    {
+      "lat": 4.617445,
+      "lon": -74.0758808,
+      "display_name": "Cementerio Central, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "rev:4.617445,-74.075881": "Carrera 20",
+  "v3:parque público vecinal juan amarillo, bogotá": [
+    {
+      "lat": 4.7290191,
+      "lon": -74.1117516,
+      "display_name": "Parque Público Vecinal Juan Amarillo, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    }
+  ],
+  "rev:4.729019,-74.111752": "Calle 90",
+  "v3:la perseverancia, bogotá": [
+    {
+      "lat": 4.6172374,
+      "lon": -74.0645131,
+      "display_name": "La Perseverancia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+    },
+    {
+      "lat": 4.6172508,
+      "lon": -74.064548,
+      "display_name": "La Perseverancia, Calle 32, La Perseverancia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:torre colpatria, bogotá": [
+    {
+      "lat": 4.6109936,
+      "lon": -74.0702477,
+      "display_name": "Torre Colpatria, Carrera 9, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    },
+    {
+      "lat": 4.6105526,
+      "lon": -74.0699568,
+      "display_name": "Torre Colpatria, Avenida Carrera 7, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia"
+    }
+  ],
+  "v3:mercado de paloquemao, bogotá": [
+    {
+      "lat": 4.6162529,
+      "lon": -74.0849713,
+      "display_name": "Plaza de mercado de paloquemao, Avenida Calle 19, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia"
+    }
+  ],
+  "v3:casa museo fernando botero, bogotá": [],
+  "v3:museo fernando botero, bogotá": [],
+  "v3:museo botero, bogotá": [
+    {
+      "lat": 4.5966918,
+      "lon": -74.0730851,
+      "display_name": "Museo Botero, 4-41, Calle 11, Egipto, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:centro cultural gabriel garcía márquez, bogotá": [
+    {
+      "lat": 4.5976648,
+      "lon": -74.073986,
+      "display_name": "Centro Cultural Gabriel García Márquez, Calle 11, La Catedral, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:museo de bogotá": [
+    {
+      "lat": 4.5962128,
+      "lon": -74.0728575,
+      "display_name": "Museo de Bogotá, Carrera 4, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    },
+    {
+      "lat": 4.5953781,
+      "lon": -74.0728977,
+      "display_name": "Museo de Bogotá, 3-61, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia"
+    }
+  ],
+  "v3:universidad sergio arboleda, bogotá": [
+    {
+      "lat": 4.6611653,
+      "lon": -74.0596656,
+      "display_name": "Universidad Sergio Arboleda, Calle 74, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.6616149,
+      "lon": -74.0598753,
+      "display_name": "Universidad Sergio Arboleda, Avenida Carrera 15, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "rev:4.661165,-74.059666": "Calle 74",
+  "v3:universidad militar nueva granada, bogotá": [
+    {
+      "lat": 4.683094,
+      "lon": -74.041943,
+      "display_name": "Universidad Militar Nueva Granada, Avenida Carrera 11, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    },
+    {
+      "lat": 4.6835418,
+      "lon": -74.0451726,
+      "display_name": "Universidad Militar Nueva Granada, Avenida Calle 100, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia"
+    }
+  ],
+  "rev:4.683094,-74.041943": "Avenida Carrera 11",
+  "v3:universidad el bosque, bogotá": [
+    {
+      "lat": 4.7107247,
+      "lon": -74.0313643,
+      "display_name": "Universidad El Bosque, Avenida Calle 134, Bosque de Medina, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110121, Colombia"
+    },
+    {
+      "lat": 4.7117522,
+      "lon": -74.03248,
+      "display_name": "Universidad El Bosque, Avenida Carrera 9, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110121, Colombia"
+    }
+  ],
+  "rev:4.710725,-74.031364": "Carrera 7B Bis",
+  "v3:clínica del country, bogotá": [
+    {
+      "lat": 4.6698997,
+      "lon": -74.0564161,
+      "display_name": "Clínica Del Country, Carrera 16, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    },
+    {
+      "lat": 4.6681641,
+      "lon": -74.0567682,
+      "display_name": "Clínica del Country, 82-32, Carrera 16, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia"
+    }
+  ],
+  "rev:4.669900,-74.056416": "Carrera 16"
+}

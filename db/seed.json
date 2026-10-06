@@ -1,0 +1,622 @@
+[
+  {
+    "nombre": "Plaza de Bolivar",
+    "categoria": "Historia",
+    "descripcion": "Plaza principal de Bogotá, escenario de la independencia y sede de la Catedral, el Capitolio y el Palacio de Nariño.",
+    "direccion": "Avenida Carrera 7",
+    "ref_ubicacion": "Plaza de Bolívar, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": true,
+    "lat": 4.5981694,
+    "lon": -74.0760021
+  },
+  {
+    "nombre": "Catedral Primada de Bogota",
+    "categoria": "Religion",
+    "descripcion": "Catedral neogótica del siglo XVI, panteón del conquistador Gonzalo Jiménez de Quesada.",
+    "direccion": "Calle 11",
+    "ref_ubicacion": "Catedral Primada de Bogotá, Calle 11, La Catedral, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5978421,
+    "lon": -74.0751469
+  },
+  {
+    "nombre": "Capitolio Nacional",
+    "categoria": "Gobierno",
+    "descripcion": "Sede del Congreso de la República, ejemplo de arquitectura neoclásica del siglo XIX.",
+    "direccion": "Calle 10",
+    "ref_ubicacion": "Capitolio Nacional, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5972122,
+    "lon": -74.0766225
+  },
+  {
+    "nombre": "Casa de Narino",
+    "categoria": "Gobierno",
+    "descripcion": "Residencia oficial del Presidente de Colombia, construida en el siglo XVIII.",
+    "direccion": "Carrera 7",
+    "ref_ubicacion": "Casa de Nariño (Presidencia de la República), Carrera 7, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5955057,
+    "lon": -74.077549
+  },
+  {
+    "nombre": "Teatro Colon",
+    "categoria": "Cultura",
+    "descripcion": "Teatro a la italiana inaugurado en 1895, patrono monumento nacional.",
+    "direccion": "Calle 10",
+    "ref_ubicacion": "Teatro Colón, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.596677,
+    "lon": -74.0744246
+  },
+  {
+    "nombre": "Museo del Oro",
+    "categoria": "Cultura",
+    "descripcion": "Museo del Banco de la República con más de 34.000 piezas de oro, cerámica y textil de los pueblos indígenas.",
+    "direccion": "Calle 16",
+    "ref_ubicacion": "Museo del Oro, Calle 16, La Veracruz, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110321, Colombia",
+    "destacado": false,
+    "lat": 4.6018403,
+    "lon": -74.0718526
+  },
+  {
+    "nombre": "Museo Nacional de Colombia",
+    "categoria": "Cultura",
+    "descripcion": "Museo de historia de Colombia alojado en un antiguo panóptico (cárcel distrital) de 1897.",
+    "direccion": "Avenida Carrera 7",
+    "ref_ubicacion": "Museo Nacional de Colombia, 28-66, Avenida Carrera 7, San Martín, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia",
+    "destacado": false,
+    "lat": 4.6155238,
+    "lon": -74.0684131
+  },
+  {
+    "nombre": "Museo de Arte Moderno",
+    "categoria": "Cultura",
+    "descripcion": "Colección de arte colombiano e internacional del siglo XX y XXI, en el Parque Independencia.",
+    "direccion": "Avenida Calle 26",
+    "ref_ubicacion": "Museo de Arte Moderno de Bogotá, Avenida Calle 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia",
+    "destacado": false,
+    "lat": 4.6100168,
+    "lon": -74.0693026
+  },
+  {
+    "nombre": "Planetario Distrital de Bogota",
+    "categoria": "Cultura",
+    "descripcion": "Sala de proyecciones y exposiciones de astronomía y ciencia junto al Parque Independencia.",
+    "direccion": "Calle 26B",
+    "ref_ubicacion": "Planetario de Bogotá, 5-93, Calle 26B, San Diego, UPZ Sagrado Corazón, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia",
+    "destacado": false,
+    "lat": 4.6120576,
+    "lon": -74.0688218
+  },
+  {
+    "nombre": "Maloka",
+    "categoria": "Cultura",
+    "descripcion": "Centro interactivo de ciencia y tecnología con domo de proyección.",
+    "direccion": "Carrera 69",
+    "ref_ubicacion": "Maloka, Calle 24B Bis, Ciudad Salitre, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia",
+    "destacado": false,
+    "lat": 4.6554318,
+    "lon": -74.1094912
+  },
+  {
+    "nombre": "Museo de Arte Colonial",
+    "categoria": "Cultura",
+    "descripcion": "Arte colonial religioso y civil de los siglos XVI a XIX en el casco histórico de La Candelaria.",
+    "direccion": "Carrera 6",
+    "ref_ubicacion": "Museo de Arte Colonial, Calle 10, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5966376,
+    "lon": -74.0751629
+  },
+  {
+    "nombre": "Plaza de Toros Santamaria",
+    "categoria": "Cultura",
+    "descripcion": "Torera inaugurada en 1931, hoy sede de conciertos y eventos masivos.",
+    "direccion": "Avenida Carrera 3",
+    "ref_ubicacion": "Plaza de Toros La Santamaría, Avenida Carrera 3, La Paz Central, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia",
+    "destacado": false,
+    "lat": 4.6131003,
+    "lon": -74.0684287
+  },
+  {
+    "nombre": "Biblioteca Virgilio Barco",
+    "categoria": "Cultura",
+    "descripcion": "Biblioteca distrital de estilo brutalista rodeada de zonas verdes.",
+    "direccion": "Avenida Carrera 60",
+    "ref_ubicacion": "Biblioteca Pública Virgilio Barco, 57-60, Avenida Carrera 60, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia",
+    "destacado": false,
+    "lat": 4.6569529,
+    "lon": -74.0882974
+  },
+  {
+    "nombre": "Barrio La Candelaria",
+    "categoria": "Historia",
+    "descripcion": "Barrio histórico de casas coloniales, museos, universidades y café tradicional.",
+    "direccion": "Calle 12C",
+    "ref_ubicacion": "La Candelaria, Calle 12C, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5979403,
+    "lon": -74.0691705
+  },
+  {
+    "nombre": "Chorro de Quevedo",
+    "categoria": "Historia",
+    "descripcion": "Esquina fundacional de Bogotá y hoy punto de encuentro con artistas, candeleros y cafés.",
+    "direccion": "Chorro de Quevedo",
+    "ref_ubicacion": "Chorro de Quevedo, La Concordia, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.597234,
+    "lon": -74.0697082
+  },
+  {
+    "nombre": "Museo Santa Clara",
+    "categoria": "Cultura",
+    "descripcion": "Iglesia del siglo XVII convertida en museo de arte religioso, junto al Palacio de Nariño.",
+    "direccion": "Carrera 8",
+    "ref_ubicacion": "Museo Iglesia Santa Clara, Carrera 8, Centro Administrativo, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5968372,
+    "lon": -74.0774643
+  },
+  {
+    "nombre": "Cerro de Monserrate",
+    "categoria": "Naturaleza",
+    "descripcion": "Santuario y mirador natural a 3.150 msnm con vista panorámica de la sabana.",
+    "direccion": "Camino a Monserrate",
+    "ref_ubicacion": "Cerro de Monserrate, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia",
+    "destacado": true,
+    "lat": 4.6072539,
+    "lon": -74.054309
+  },
+  {
+    "nombre": "Parque Metropolitano Simon Bolivar",
+    "categoria": "Naturaleza",
+    "descripcion": "El parque urbano más grande de la ciudad: lagos, vías ciclistas y la Ciudad Deportiva.",
+    "direccion": "Pista de Trote",
+    "ref_ubicacion": "Parque Metropolitano Simón Bolívar, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.6587491,
+    "lon": -74.094133
+  },
+  {
+    "nombre": "Jardin Botanico de Bogota",
+    "categoria": "Naturaleza",
+    "descripcion": "14 hectáreas con colección de flora andina, orquideómico y jardines temáticos.",
+    "direccion": "Avenida Calle 63",
+    "ref_ubicacion": "Jardín Botánico José Celestino Mutis, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 11001, Colombia",
+    "destacado": false,
+    "lat": 4.6678953,
+    "lon": -74.1000858
+  },
+  {
+    "nombre": "Quebrada La Vieja",
+    "categoria": "Naturaleza",
+    "descripcion": "Sendero en los Cerros Orientales con naciente de agua, fauna y flora de bosque andino.",
+    "direccion": "Quebrada la Vieja",
+    "ref_ubicacion": "Quebrada La Vieja, UPZ Pardo Rubio, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia",
+    "destacado": false,
+    "lat": 4.6490536,
+    "lon": -74.0465096
+  },
+  {
+    "nombre": "Complejo Recreativo El Salitre",
+    "categoria": "Deporte",
+    "descripcion": "Complejo deportivo distrital con piscinas olímpicas, canchas y áreas recreativas.",
+    "direccion": "Carrera 57",
+    "ref_ubicacion": "El Salitre, Carrera 57, Modelo, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia",
+    "destacado": false,
+    "lat": 4.665503,
+    "lon": -74.082136
+  },
+  {
+    "nombre": "Estadio Nemesio Camacho El Campin",
+    "categoria": "Deporte",
+    "descripcion": "Estadio mayor de Bogotá, sede de Millonarios y de grandes conciertos.",
+    "direccion": "Avenida Carrera 30",
+    "ref_ubicacion": "Estadio Nemesio Camacho El Campín, Avenida Carrera 30, Galerías, UPZs de Bogotá, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111311, Colombia",
+    "destacado": false,
+    "lat": 4.6459495,
+    "lon": -74.0776054
+  },
+  {
+    "nombre": "Salitre Magico",
+    "categoria": "Entretenimiento",
+    "descripcion": "Parque de diversiones con montañas rusas y atracciones para toda la familia.",
+    "direccion": "Avenida Carrera 68",
+    "ref_ubicacion": "Salitre Mágico, Avenida Carrera 68, UPZs de Bogotá, Localidad Barrios Unidos, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111221, Colombia",
+    "destacado": false,
+    "lat": 4.6683521,
+    "lon": -74.0909821
+  },
+  {
+    "nombre": "Centro Comercial Unicentro",
+    "categoria": "Comercial",
+    "descripcion": "Gran centro comercial del noroccidente de la ciudad, en la Calle 127.",
+    "direccion": "Carrera 13",
+    "ref_ubicacion": "Unicentro, Avenida Calle 127, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia",
+    "destacado": false,
+    "lat": 4.7021592,
+    "lon": -74.0412813
+  },
+  {
+    "nombre": "Plaza de Usaquen",
+    "categoria": "Gastronomia",
+    "descripcion": "Plaza colonial con restaurantes, antiguas y el famoso flea market los domingos.",
+    "direccion": "Carrera 6A",
+    "ref_ubicacion": "Plaza de Usaquén, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.6951704,
+    "lon": -74.0309408
+  },
+  {
+    "nombre": "Parque de la 93",
+    "categoria": "Gastronomia",
+    "descripcion": "Área peatonal rodeada de restaurantes, cafeterías y zonas verdes.",
+    "direccion": "Calle 93B",
+    "ref_ubicacion": "Parque de la 93, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.676768,
+    "lon": -74.0482874
+  },
+  {
+    "nombre": "Centro Comercial Andino",
+    "categoria": "Comercial",
+    "descripcion": "Centro comercial de lujo en plena Calle 82.",
+    "direccion": "Carrera 12",
+    "ref_ubicacion": "Centro Comercial Andino, 82-71, Carrera 12, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia",
+    "destacado": false,
+    "lat": 4.6669045,
+    "lon": -74.0531123
+  },
+  {
+    "nombre": "Universidad Nacional de Colombia",
+    "categoria": "Educacion",
+    "descripcion": "Campus central de 1910 con arquitectura republicana, teatro, estadio y zonas verdes.",
+    "direccion": "Carrera 45",
+    "ref_ubicacion": "Universidad Nacional de Colombia, 26-85, Carrera 45, Rafael Nuñez, UPZ Parque Simón Bolívar-CAN, Localidad Teusaquillo, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111321, Colombia",
+    "destacado": true,
+    "lat": 4.6387426,
+    "lon": -74.0852375
+  },
+  {
+    "nombre": "Universidad de los Andes",
+    "categoria": "Educacion",
+    "descripcion": "Universidad privada en el centro histórico, junto a la Plaza de Bolívar.",
+    "direccion": "Calle 19A",
+    "ref_ubicacion": "Universidad de los Andes, Calle 19A, Las Aguas, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": true,
+    "lat": 4.6014026,
+    "lon": -74.064905
+  },
+  {
+    "nombre": "Aeropuerto Internacional El Dorado",
+    "categoria": "Transporte",
+    "descripcion": "Principal aeropuerto de Colombia y hub de conexión de América Latina.",
+    "direccion": "Avenida Calle 63",
+    "ref_ubicacion": "Aeropuerto Internacional El Dorado, Carrera 111C, Villas de Granada, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111031, Colombia",
+    "destacado": false,
+    "lat": 4.7020946,
+    "lon": -74.1477132
+  },
+  {
+    "nombre": "Terminal de Transportes Salitre",
+    "categoria": "Transporte",
+    "descripcion": "Terminal de transporte intermunicipal del noroccidente de Bogotá.",
+    "direccion": "Diagonal 23",
+    "ref_ubicacion": "Terminal de Transporte de Bogotá - Terminal Salitre, 69 - 60, Diagonal 23, La Esperanza Sur, UPZs Localidad Fontibón, Localidad Fontibón, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110931, Colombia",
+    "destacado": false,
+    "lat": 4.6540075,
+    "lon": -74.1163364
+  },
+  {
+    "nombre": "Universidad Distrital Francisco José de Caldas",
+    "categoria": "Educacion",
+    "descripcion": "Universidad pública de Bogotá con sedes en Cra. 40 (ingeniería) y en La Candelaria (humanidades y pedagogía).",
+    "direccion": "Carrera 3",
+    "ref_ubicacion": "Universidad Distrital Francisco José de Caldas - Sede Macarena A, 26, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": true,
+    "lat": 4.6142765,
+    "lon": -74.0632805
+  },
+  {
+    "nombre": "Pontificia Universidad Javeriana",
+    "categoria": "Educacion",
+    "descripcion": "Universidad jesuita fundada en 1623, campus histórico en la Cra. 7 entre la Calle 40 y la 42.",
+    "direccion": "Avenida Carrera 7",
+    "ref_ubicacion": "Pontificia Universidad Javeriana, 40-62, Avenida Carrera 7, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia",
+    "destacado": true,
+    "lat": 4.6287061,
+    "lon": -74.0636499
+  },
+  {
+    "nombre": "Universidad del Rosario",
+    "categoria": "Educacion",
+    "descripcion": "Universidad fundada en 1653, la más antigua de Colombia, en pleno centro histórico junto a la Plaza del Chorro.",
+    "direccion": "Calle 12B",
+    "ref_ubicacion": "Universidad del Rosario, Avenida Carrera 7, La Catedral, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": true,
+    "lat": 4.6000106,
+    "lon": -74.0733473
+  },
+  {
+    "nombre": "Universidad Externado de Colombia",
+    "categoria": "Educacion",
+    "descripcion": "Universidad fundada en 1886 por Nicanor de Olguín, tradición en derecho, economía y ciencias sociales.",
+    "direccion": "Cra. 9 #7-25",
+    "ref_ubicacion": "Universidad Externado de Colombia, Calle 12, Egipto, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": true,
+    "lat": 4.5952455,
+    "lon": -74.0683393
+  },
+  {
+    "nombre": "Universidad EAN",
+    "categoria": "Educacion",
+    "descripcion": "Universidad privada de administración y negocios (antigua Escuela de Administración y Negocios) en el centro de Bogotá.",
+    "direccion": "Avenida Carrera 11",
+    "ref_ubicacion": "Universidad EAN, 78-47, Avenida Carrera 11, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia",
+    "destacado": true,
+    "lat": 4.6634617,
+    "lon": -74.0550582
+  },
+  {
+    "nombre": "Universidad La Salle",
+    "categoria": "Educacion",
+    "descripcion": "Universidad privada de tradición católica en la Cra. 5 con la Calle 71, campus con grandes zonas verdes.",
+    "direccion": "Carrera 4",
+    "ref_ubicacion": "Universidad de La Salle, Carrera 4A, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia",
+    "destacado": true,
+    "lat": 4.6446949,
+    "lon": -74.0594621
+  },
+  {
+    "nombre": "Universidad Pedagógica Nacional",
+    "categoria": "Educacion",
+    "descripcion": "Universidad pública dedicada a la formación de docentes, en el centro histórico de La Candelaria.",
+    "direccion": "Carrera 12",
+    "ref_ubicacion": "Universidad Pedagógica Nacional, Carrera 13, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia",
+    "destacado": true,
+    "lat": 4.6583973,
+    "lon": -74.0592735
+  },
+  {
+    "nombre": "Hospital San Ignacio",
+    "categoria": "Salud",
+    "descripcion": "Hospital universitario de alta complejidad de la Provincia de la Compañía de Jesús, en la Cra. 4 con la Calle 91.",
+    "direccion": "Avenida Carrera 7",
+    "ref_ubicacion": "Hospital Universitario San Ignacio, Escaleras Media Torta PUJ, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia",
+    "destacado": false,
+    "lat": 4.6284139,
+    "lon": -74.0641717
+  },
+  {
+    "nombre": "Fundación Santa Fe de Bogotá",
+    "categoria": "Salud",
+    "descripcion": "Centro médico privado de alta complejidad en la Calle 119, con hospital, consultorios e investigación.",
+    "direccion": "Calle 119",
+    "ref_ubicacion": "Fundación Santa Fe de Bogotá, 7 - 80, Calle 119, Usaquén, UPZs Localidad Usaquén, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia",
+    "destacado": false,
+    "lat": 4.6965636,
+    "lon": -74.032925
+  },
+  {
+    "nombre": "Hospital Militar Central",
+    "categoria": "Salud",
+    "descripcion": "Hospital de la Fuerzas Militares (CGM), alta complejidad, en la Cra. 37 con la Calle 21.",
+    "direccion": "Transversal 3",
+    "ref_ubicacion": "Hospital Militar Central, Calle 48A, Mariscal Sucre, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110231, Colombia",
+    "destacado": false,
+    "lat": 4.634544,
+    "lon": -74.0616281
+  },
+  {
+    "nombre": "Hospital El Tunal",
+    "categoria": "Salud",
+    "descripcion": "Hospital público de segundo y tercer nivel en el sur de la ciudad (localidad de Tunjuelito), junto al Parque El Tunal.",
+    "direccion": "Calle 48C Sur",
+    "ref_ubicacion": "Hospital El Tunal, Calle 48C Sur, San Carlos, UPZs de Bogotá, Localidad Tunjuelito, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110621, Colombia",
+    "destacado": false,
+    "lat": 4.5715076,
+    "lon": -74.1282471
+  },
+  {
+    "nombre": "Centro Comercial Titán Plaza",
+    "categoria": "Comercial",
+    "descripcion": "Centro comercial del sur de la ciudad, en la Calle 17 con la Cra. 104 (Bosa).",
+    "direccion": "Avenida Carrera 72",
+    "ref_ubicacion": "Centro Comercial Titán Plaza (Av. Boyacá - Cl 9, Avenida Carrera 72, Pontevedra, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111121, Colombia",
+    "destacado": false,
+    "lat": 4.6965358,
+    "lon": -74.0848833
+  },
+  {
+    "nombre": "Centro Comercial Bima",
+    "categoria": "Comercial",
+    "descripcion": "Centro comercial de la localidad de Suba, sobre la Cra. 45.",
+    "direccion": "Avenida Carrera 45",
+    "ref_ubicacion": "Centro Comercial Bima, Avenida Carrera 45, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111166, Colombia",
+    "destacado": false,
+    "lat": 4.80732,
+    "lon": -74.0400006
+  },
+  {
+    "nombre": "Centro Comercial Plaza de las Américas",
+    "categoria": "Comercial",
+    "descripcion": "Gran centro comercial del suroccidente, sobre la Cra. 71D en Hipotecho (Puente Aranda).",
+    "direccion": "Carrera 71D",
+    "ref_ubicacion": "Centro Comercial Plaza de las Americas, 6 Sur-94, Carrera 71D, Hipotecho Occidental, UPZs de Bogotá, Localidad Kennedy, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110831, Colombia",
+    "destacado": false,
+    "lat": 4.6191423,
+    "lon": -74.1351911
+  },
+  {
+    "nombre": "Centro Comercial Plaza Central",
+    "categoria": "Comercial",
+    "descripcion": "Centro comercial y de esparcimiento sobre la Cra. 65, en la localidad de Puente Aranda.",
+    "direccion": "Carrera 65",
+    "ref_ubicacion": "Centro Comercial Plaza Central, Carrera 65, Salazar Gómez, UPZs de Bogotá, Localidad Puente Aranda, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111611, Colombia",
+    "destacado": false,
+    "lat": 4.6319656,
+    "lon": -74.1155689
+  },
+  {
+    "nombre": "Parque Metropolitano El Tunal",
+    "categoria": "Naturaleza",
+    "descripcion": "Parque metropolitano de 118 hectáreas al sur de la ciudad (Tunjuelito/Usme): lagos, ciclovía, biblioteca y deporte.",
+    "direccion": "Corredor Clases Educación Fisica",
+    "ref_ubicacion": "Parque Metropolitano El Tunal, Localidad Tunjuelito, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.5718773,
+    "lon": -74.1341131
+  },
+  {
+    "nombre": "Hospital de Suba",
+    "categoria": "Salud",
+    "descripcion": "Hospital local de la localidad de Suba, en el barrio Turingia, con urgencias y consultorios externos.",
+    "direccion": "Avenida Carrera 104",
+    "ref_ubicacion": "Hospital de Suba, Avenida Carrera 104, Turingia, UPZs de Bogotá, Localidad Suba, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111161, Colombia",
+    "destacado": false,
+    "lat": 4.7533787,
+    "lon": -74.0918398
+  },
+  {
+    "nombre": "Parque Río Bogotá",
+    "categoria": "Naturaleza",
+    "descripcion": "Parque lineal sobre el río Bogotá en la localidad de Engativá, con ciclovía, canchas y zonas de recreación.",
+    "direccion": "Parque Líneal Río Bogotá",
+    "ref_ubicacion": "Parque Líneal Río Bogotá, UPZs de Bogotá, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111031, Colombia",
+    "destacado": false,
+    "lat": 4.7270089,
+    "lon": -74.1297976
+  },
+  {
+    "nombre": "Parque Independencia",
+    "categoria": "Naturaleza",
+    "descripcion": "Parque urbano del centro con el Museo de Arte Moderno, el Planetario y el Altar de la Patria.",
+    "direccion": "Calle 26B",
+    "ref_ubicacion": "Parque de la Independencia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.6113347,
+    "lon": -74.0685787
+  },
+  {
+    "nombre": "Cementerio Central",
+    "categoria": "Historia",
+    "descripcion": "Cementerio nacional de 1836 con panteones de próceres, mártires y figuras de la historia de Colombia (localidad de Los Mártires).",
+    "direccion": "Carrera 20",
+    "ref_ubicacion": "Cementerio Central, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.617445,
+    "lon": -74.0758808
+  },
+  {
+    "nombre": "Parque Público Vecinal Juan Amarillo",
+    "categoria": "Naturaleza",
+    "descripcion": "Parque vecinal de la localidad de Engativá con canchas, áreas verdes y espacios recreativos para la comunidad.",
+    "direccion": "Calle 90",
+    "ref_ubicacion": "Parque Público Vecinal Juan Amarillo, Localidad Engativá, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.7290191,
+    "lon": -74.1117516
+  },
+  {
+    "nombre": "Barrio La Perseverancia",
+    "categoria": "Historia",
+    "descripcion": "Barrio obrero de 1928 al pie de los Cerros Orientales (localidad de Santa Fe), cuna de la Escuela Superior de Comercio.",
+    "direccion": "Calle 32",
+    "ref_ubicacion": "La Perseverancia, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia",
+    "destacado": false,
+    "lat": 4.6172374,
+    "lon": -74.0645131
+  },
+  {
+    "nombre": "Torre Colpatria",
+    "categoria": "Historia",
+    "descripcion": "Rascacielos de 1979 y edificio más emblemático del skyline de Bogotá; su mirador ofrece vistas de la sabana.",
+    "direccion": "Carrera 9",
+    "ref_ubicacion": "Torre Colpatria, Carrera 9, UPZs de Bogotá, Localidad Santa Fé, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110311, Colombia",
+    "destacado": false,
+    "lat": 4.6109936,
+    "lon": -74.0702477
+  },
+  {
+    "nombre": "Mercado de Paloquemao",
+    "categoria": "Gastronomia",
+    "descripcion": "Mayor mercado de abastos de Bogotá: frutas andinas, carnes, especias y pescados en la Cra. 22 con la Calle 41.",
+    "direccion": "Avenida Calle 19",
+    "ref_ubicacion": "Plaza de mercado de paloquemao, Avenida Calle 19, UPZs de Bogotá, Localidad Los Mártires, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111411, Colombia",
+    "destacado": false,
+    "lat": 4.6162529,
+    "lon": -74.0849713
+  },
+  {
+    "nombre": "Casa Museo Fernando Botero",
+    "categoria": "Cultura",
+    "descripcion": "Casa de 1969 donde vivió el maestro Fernando Botero, hoy museo con su colección personal en La Macarena.",
+    "direccion": "Calle 11",
+    "ref_ubicacion": "Museo Botero, 4-41, Calle 11, Egipto, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5966918,
+    "lon": -74.0730851
+  },
+  {
+    "nombre": "Centro Cultural Gabriel García Márquez",
+    "categoria": "Cultura",
+    "descripcion": "Casa del Autor de la FUNCIONP, con biblioteca, sala de lectura, cafetería y programación cultural gratuita.",
+    "direccion": "Calle 11",
+    "ref_ubicacion": "Centro Cultural Gabriel García Márquez, Calle 11, La Catedral, UPZs de Bogotá, UPZ La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5976648,
+    "lon": -74.073986
+  },
+  {
+    "nombre": "Museo de Bogotá",
+    "categoria": "Cultura",
+    "descripcion": "Museo de la historia de la ciudad: desde los muiscas hasta la Bogotá contemporánea, en el centro histórico.",
+    "direccion": "Carrera 4",
+    "ref_ubicacion": "Museo de Bogotá, Carrera 4, Centro Administrativo, UPZs de Bogotá, UPZs Localidad La Candelaria, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 111711, Colombia",
+    "destacado": false,
+    "lat": 4.5962128,
+    "lon": -74.0728575
+  },
+  {
+    "nombre": "Universidad Sergio Arboleda",
+    "categoria": "Educacion",
+    "descripcion": "Universidad privada de tradición humanística con campus propio en la Calle 74, entre el Parque de la 93 y la Zona T.",
+    "direccion": "Calle 74",
+    "ref_ubicacion": "Universidad Sergio Arboleda, Calle 74, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia",
+    "destacado": true,
+    "lat": 4.6611653,
+    "lon": -74.0596656
+  },
+  {
+    "nombre": "Universidad Militar Nueva Granada",
+    "categoria": "Educacion",
+    "descripcion": "Universidad pública de las Fuerzas Militares con campus en la Cra. 11, entre Usaquén y el norte de Chapinero.",
+    "direccion": "Avenida Carrera 11",
+    "ref_ubicacion": "Universidad Militar Nueva Granada, Avenida Carrera 11, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110111, Colombia",
+    "destacado": true,
+    "lat": 4.683094,
+    "lon": -74.041943
+  },
+  {
+    "nombre": "Universidad El Bosque",
+    "categoria": "Educacion",
+    "descripcion": "Universidad privada de ciencias de la salud en la Av. Calle 134 de la localidad de Usaquén.",
+    "direccion": "Carrera 7B Bis",
+    "ref_ubicacion": "Universidad El Bosque, Avenida Calle 134, Bosque de Medina, UPZs de Bogotá, Localidad Usaquén, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110121, Colombia",
+    "destacado": true,
+    "lat": 4.7107247,
+    "lon": -74.0313643
+  },
+  {
+    "nombre": "Clínica del Country",
+    "categoria": "Salud",
+    "descripcion": "Centro médico privado de alta complejidad en la Cra. 16 con la Calle 79, cerca del Parque de la 93.",
+    "direccion": "Carrera 16",
+    "ref_ubicacion": "Clínica Del Country, Carrera 16, UPZs de Bogotá, Localidad Chapinero, Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, 110221, Colombia",
+    "destacado": false,
+    "lat": 4.6698997,
+    "lon": -74.0564161
+  }
+]

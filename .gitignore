@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+node_modules/
+frontend/dist/
+
+.vscode/
+.idea/
+.DS_Store
+
+# logs locales
+*.log
+
+# configuracion local de OpenCode (plugin de Replicate)
+.opencode/
+
+# sobras de la instalacion manual del plugin
+replicate-install.sh
