@@ -308,3 +308,7 @@ Tema claro y de alto contraste, con panel izquierdo + mapa a la derecha:
   hover/activa/cerca con transiciones `cubic-bezier`.
 - **Popups animados** (`resbalar`/`aparecer`), chips con transición de color,
   avisos con degradado y responsivo (el panel pasa a cabecera en móvil).
+
+## Estado
+
+Proyecto en desarrollo. Última revisión: octubre 2026.
